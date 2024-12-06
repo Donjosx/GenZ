@@ -1,1 +1,1 @@
-return game.Workspace.Lobby
+return game.Workspace.Lobby, game:GetService("Workspace").Lobby.Teleport1
